@@ -5,5 +5,7 @@ public class Test1 {
 		int a = 10;
 		int b = 20;
 		String s = "adc";
+		System.out.println(s);
+		System.out.println(a+b+s);
 	}
 }
